@@ -7,8 +7,6 @@
 </br>
 - 👯 I’m looking to collaborate on artificial inteligent 
 </br>
-- 🤔 I’m looking for help with find internship in a software company
-</br>
 </div>
 </br>
 <h2 align="center">Languages</h2>
